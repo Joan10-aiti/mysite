@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Meriweather', serif;
+}
+h1 {
+  color:#66BFBF;
+  font-size: 5.625rem;
+  margin: 50px auto 50px auto;
+  font-family: 'Sacramento', cursive;
+}
+h2 {
+  color:#66BFBF;
+  font-family:  'Monteserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+h3 {
+  color: #11999E;
+  font-family:  'Monteserrat', sans-serif;
+}
+.btn {
+  color: #11999E;
+}
+.footer-link{
+  color: #11999E;
+}
+
+.skills {
+  margin-top: 70px;
+  background-color:#117369;
+}
+.skill-row {
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+ .top-container {
+  position: relative;
+  padding-top: 100px;
+  text-align: center;
+
+} 
+/*.bg-image {
+ /* object-fit:contain;
+  position: relative;
+  text-align: center;
+}*/
+.img {
+  border-radius: 50%;
+}
+.middle-container {
+
+}
+.bottom-container {
+  background-color: #546b69;
+}
+/*.left-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.right-cloud {
+  position: absolute;
+  right: 300px;
+  bottom: 300px;
+}*/
+.web {
+  text-decoration: underline;
+}
+.com {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.mak {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.fac {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.git {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+body {padding-top:20px;}
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
